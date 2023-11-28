@@ -1,0 +1,241 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.navbar{
+display: flex;
+justify-content: space-evenly;
+height: 150px;
+background-color: #F3F4F6;
+font-size: 22px;
+
+}
+
+#profileph{
+height: 100px;
+width: 100px;
+border-radius: 50px;
+
+background-size: cover;
+
+}
+
+.navlist ul{
+display: flex;
+justify-content: space-evenly;
+list-style: none;
+
+}
+.navlist ul li{
+color: black;
+margin: 20px;
+}
+.project_item{
+    width: auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+     
+
+  .compnent{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+  }
+  .compnent div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    border-radius: 10px;
+    margin: 10px;
+    
+ 
+    
+  }
+
+  .myproject{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F3F4F6;;
+    height: 500px;
+    
+  }
+  .myproject div1{
+    height: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    
+
+  }
+
+  img{
+    height: 200px;
+    width: 200ppx
+
+
+  }
+
+  
+   .fa-linkedin{
+    font-size: 20px;
+   }
+  .contact{
+    height: 400px;
+ 
+    background-color: rgb(93, 93, 158);
+    display: flex;
+    justify-content: space-evenly;
+  }
+   .fa-brands fa-linkedin{
+    font-size: larger;
+   }
+
+   .main_screen{
+    height: 700px;
+    display: flex;
+    justify-content: center;
+  
+  
+   }
+  .outerbox{
+    height: 401px;
+    padding: 64px 48px;
+    
+  
+
+    
+  
+  }
+   
+  /* .inner_container{ */
+    /* display: flexbox; */
+    /* justify-content: center; */
+    /* padding: 64px 48px;  */
+    /* background-color: #F3F4F6; */
+  /* } */
+
+
+  /* .infcontainer{ */
+    /* width: 360px; */
+    /* height: 237px; */
+  /*  */
+  /*  */
+  /* } */
+
+  .container{
+    height: 370px;
+    background-color: #F3F4F6;
+    
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+  }
+   
+  #contactph{
+    width: 360px;
+    height: 270px;
+    margin-top: 35px;
+    
+
+  
+
+  }
+
+  #image1{
+    height: 210px;
+    width: 210px;
+    margin-left: 72px;
+    padding: 8px;
+    border-radius: 50%;
+  }
+
+  .social_item{
+    height: 90px;
+    
+    display: flex;
+  }
+  .social_item ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+
+  .social_item ul li{
+  margin-left: 80px;
+  margin-top: 20px;
+  font-size: 40px;
+  }
+
+  .fa-brands{
+    font-size: 50px;
+  }
+   
+  #greeting{
+    font-size: 30px;
+    margin-left: 100px;
+    font-style: italic;
+  }
+   
+  #image2{
+    height: 120px;
+    width: 120px;
+    margin-right: 82px;
+    padding: 8px;
+    border-radius: 50%;
+  }
+
+  .main{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+     background-color: rgb(80, 73, 88);
+
+    
+  }
+
+  .main h4{
+    font-style: italic;
+    font-size: 30px;
+    color: red;
+  }
+
+  .main h6{
+    font-style: italic;
+    font-size: 25px;
+    margin-top: 25px;
+  
+  }
+  .foote ul{
+    display: flex;
+    list-style: none;
+  }
+
+  .foote ul li{
+    margin: 10px;
+  }
+
+   
+   
+  
+ 
+ 
+
+
+
+
+
+
+
+
+
+

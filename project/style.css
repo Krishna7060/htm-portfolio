@@ -1,0 +1,32 @@
+#clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    background-image: url(OIPaaa.jpg);
+    
+    background-size: contain;
+    
+    font-size: 350%;
+    color: rgb(224, 21, 21);
+    margin-top: 15%
+    
+    
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+body{
+    background-image: url(daylight-forest-glossy-443446.jpg);
+    background-size: cover;
+    
+    
+    
+}
+

@@ -1,0 +1,45 @@
+body{
+    background-image: url(OIPaaa.jpg);
+    background-size: contain;
+}
+
+#result{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 200px;
+    background-color: chocolate;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 190px;
+
+}
+.input{
+    height: 40px;
+    width: 250px;
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    margin-left: 20px;
+}
+
+p{
+    font-size: x-large;
+    color: crimson;
+}
+
+button{
+    height: 40px;
+    width: 155px;
+    border-radius: 9px;
+    background-color: rgb(120, 183, 183);
+    margin-left: 200px;
+}
+
+h1{
+    margin-left: 190px;
+
+    
+}
